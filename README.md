@@ -1,1 +1,1 @@
-*Simon's Congruence Pattern Mining
+**Simon's Congruence Pattern Mining**
