@@ -13,7 +13,7 @@ int main() {
     cin >> w;
 
     int n = w.size();
-    string wp = w + "$";
+    w = w + "$";
     vector<int> X = computeX(w);
 
     auto root = make_shared<Node>(-1, n + 1, 0);

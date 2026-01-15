@@ -1,4 +1,5 @@
 #include "data/PSimonTree.h"
+#include "data/SimonTree.h"
 
 #include <iostream>
 #include <memory>
@@ -6,4 +7,4 @@
 #include <vector>
 
 using namespace std;
-
+using namespace PSimonTree;

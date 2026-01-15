@@ -1,0 +1,40 @@
+# ---------------------------------------------------------
+# 1. Compiled Binaries & Executables
+# ---------------------------------------------------------
+# Windows executables
+*.exe
+*.dll
+
+# Unix/Linux/Mac executables (no extension)
+p_simon_tree
+simon_tree
+simon_app
+a.out
+
+# ---------------------------------------------------------
+# 2. Intermediate Object Files
+# ---------------------------------------------------------
+*.o
+*.obj
+
+# ---------------------------------------------------------
+# 3. Debugging Symbols
+# ---------------------------------------------------------
+*.pdb
+*.dSYM/
+
+# ---------------------------------------------------------
+# 4. OS & IDE Configuration Files (Optional)
+# ---------------------------------------------------------
+# Mac OS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# JetBrains / IntelliJ
+.idea/
+
+# Visual Studio
+*.suo
+*.user

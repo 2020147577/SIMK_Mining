@@ -8,6 +8,5 @@
 using namespace std;
 
 namespace PSimonTree {
-
-}
+	
 #endif
